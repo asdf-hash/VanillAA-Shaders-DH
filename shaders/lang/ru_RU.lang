@@ -1,0 +1,6 @@
+option.SHARPENING=Стабилизация
+value.SHARPENING.0=Выключена
+value.SHARPENING.1=Маска
+value.SHARPENING.2=КАПР
+
+option.CAS_AMOUNT=Мощность КАПР
